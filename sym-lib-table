@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "a")(type "KiCad")(uri "${KIPRJMOD}/symbols/Connector_Arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "b")(type "KiCad")(uri "${KIPRJMOD}/symbols/Mechanical_Arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "c")(type "KiCad")(uri "${KIPRJMOD}/symbols/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/symbols/arduino-library.kicad_sym")(options "")(descr ""))
+)

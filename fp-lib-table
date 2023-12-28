@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "a")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+  (lib (name "b")(type "KiCad")(uri "${KIPRJMOD}/footprints/ArduinoPinSocket.pretty")(options "")(descr ""))
+  (lib (name "c")(type "KiCad")(uri "${KIPRJMOD}/footprints/ArduinoMountingHole.pretty")(options "")(descr ""))
+  (lib (name "arduino-library")(type "KiCad")(uri "${KIPRJMOD}/footprints/arduino-library.pretty")(options "")(descr ""))
+)
